@@ -1,0 +1,22 @@
+﻿body {
+    background-color: black;
+    color: #FFFFFF;
+}
+.navigation li{
+    display: inline;
+    margin: 2px;
+}
+h1 {
+    text-align: center;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin: 5px;
+    padding: 5px;
+}
+footer p{
+    text-align: center;
+}
